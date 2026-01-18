@@ -2,7 +2,7 @@
 <resources>
     <string name="all">Выбрать всё</string>
     <string name="app_icon_list_label">Иконка приложения</string>
-    <string name="app_name">AntiSplit-M</string>
+    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="arch_for_device">Выбрать архитектуру под ваше устройство</string>
     <string name="ask">Спрашивать где сохранить файл</string>
     <string name="auto_update">Автоматически проверять обновление</string>
