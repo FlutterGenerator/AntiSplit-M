@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="merge">AntiSplit/병합할 분할 APK 선택하기</string>
     <string name="success_saved">파일을 성공적으로 저장하였습니다.</string>
-    <string name="enable_logs" >로그 활성화하기</string>
+    <string name="enable_logs">로그 활성화하기</string>
     <string name="ask">매번 물어보기</string>
     <string name="same">선택한 파일과 동일 디렉토리에 저장하기</string>
     <string name="grant_storage">선택한 파일과 동일 디렉토리에 저장하기 위한 파일 액세스 권한이 필요합니다.</string>
