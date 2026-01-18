@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="merge">Seleccionar APK divididos para Fusionar/AntiSplit</string>
     <string name="success_saved">Archivo guardado exitosamente</string>
     <string name="enable_logs">Habilitar registros.</string>
