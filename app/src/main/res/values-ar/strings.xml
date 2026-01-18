@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="merge">اختر ملف APK المقسم للدمج/أنتي سبلت</string>
     <string name="success_saved">تم حفظ الملف بنجاح</string>
     <string name="enable_logs">تفعيل السجلات</string>
