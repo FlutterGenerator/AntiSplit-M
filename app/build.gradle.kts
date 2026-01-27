@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.abdurazaaqmohammed.AntiSplit"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.abdurazaaqmohammed.AntiSplit"
-        minSdk = 21
-        targetSdk = 35
+        minSdk = 23
+        targetSdk = 36
         versionCode = 55
         versionName = "2.2.7"
         multiDexEnabled = true
@@ -34,7 +34,7 @@ android {
         viewBinding = false
     }
     dependencies {
-        implementation("com.google.android.material:material:1.13.0")
+        implementation("com.google.android.material:material:1.14.0-alpha08")
         implementation(files("libs/APKEditor.jar"))
     }
     dependenciesInfo {
