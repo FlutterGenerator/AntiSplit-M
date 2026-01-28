@@ -34,7 +34,7 @@ android {
         viewBinding = false
     }
     dependencies {
-        implementation("com.google.android.material:material:1.14.0-alpha08")
+        implementation("com.google.android.material:material:1.14.0-alpha09")
         implementation(files("libs/APKEditor.jar"))
     }
     dependenciesInfo {
