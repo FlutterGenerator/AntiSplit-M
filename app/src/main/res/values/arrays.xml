@@ -13,10 +13,10 @@
         <item>한국어</item>  <!-- ko -->
         <item>Polski</item>  <!-- pl -->
         <item>Português</item> <!-- pt -->
-        <item>Русский Язык</item>  <!-- ru -->
+        <item>Русский</item>  <!-- ru -->
         <item>Türkçe</item>    <!-- tr -->
-        <item>Українська Мова</item>  <!-- uk -->
-        <item>Uzbek Tili</item>  <!-- uz -->
+        <item>Українська</item>  <!-- uk -->
+        <item>O'zbek</item>  <!-- uz -->
         <item>Tiếng Việt</item>  <!-- vi -->
         <item>繁體中文(台灣)</item>  <!-- zh-tw -->
     </string-array>
