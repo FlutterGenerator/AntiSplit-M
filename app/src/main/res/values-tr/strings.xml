@@ -64,4 +64,5 @@
     <string name="file_save_method">Dosya kaydetme seçenekleri</string>
     <string name="pick_folder">Yolu girin</string>
     <string name="not_split">Bu bölünmüş APK gibi durmuyor (%1$s)</string>
+    <string name="select_item">Select Item</string>
 </resources>

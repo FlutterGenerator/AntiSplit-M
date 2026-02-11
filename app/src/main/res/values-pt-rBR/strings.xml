@@ -52,4 +52,5 @@
     <string name="pause">Botão de pausa</string>
     <string name="copied_log">Log copiado</string>
     <string name="suffix">Sufixo</string>
+    <string name="select_item">Select Item</string>
 </resources>

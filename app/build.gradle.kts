@@ -1,5 +1,5 @@
 plugins {
-    id("com.android.application")
+    alias(libs.plugins.android.application)
 }
 
 android {
@@ -8,13 +8,12 @@ android {
 
     defaultConfig {
         applicationId = "com.abdurazaaqmohammed.AntiSplit"
-        minSdk = 23
+        minSdk = 24
         targetSdk = 36
-        versionCode = 55
-        versionName = "2.2.7"
+        versionCode = 56
+        versionName = "2.2.8"
         multiDexEnabled = true
     }
-
     buildTypes {
         release {
             isMinifyEnabled = true
@@ -33,14 +32,16 @@ android {
     buildFeatures {
         viewBinding = false
     }
-    dependencies {
-        implementation("com.google.android.material:material:1.14.0-alpha09")
-        implementation(files("libs/APKEditor.jar"))
-    }
+
     dependenciesInfo {
         // Disables dependency metadata when building APKs.
         includeInApk = false
         // Disables dependency metadata when building Android App Bundles.
         includeInBundle = false
     }
+}
+
+dependencies {
+    implementation(libs.material)
+    implementation(files("libs/APKEditor.jar"))
 }

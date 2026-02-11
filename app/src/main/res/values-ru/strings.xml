@@ -65,4 +65,5 @@
     <string name="unselected">: не выбран</string>
     <string name="update">Доступно обновление</string>
     <string name="warning">Предупреждение</string>
+    <string name="select_item">Select Item</string>
 </resources>

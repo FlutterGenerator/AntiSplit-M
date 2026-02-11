@@ -64,4 +64,5 @@
     <string name="file_save_method">檔案保存方法</string>
     <string name="pick_folder">輸入資料夾</string>
     <string name="not_split">這似乎不是 split APK (%1$s)</string>
+    <string name="select_item">Select Item</string>
 </resources>

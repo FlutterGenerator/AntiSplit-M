@@ -57,4 +57,5 @@
     <string name="force">Forza unificazione delle suddivisioni non corrispondenti (con differente versionCode o nome pacchetto)</string>
     <string name="file_save_method">Opzioni di salvataggio file</string>
     <string name="pick_folder">Inserisci percorso</string>
+    <string name="select_item">Select Item</string>
 </resources>

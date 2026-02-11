@@ -64,4 +64,5 @@
     <string name="file_save_method">Metode penyimpanan berkas</string>
     <string name="pick_folder">Masukkan folder</string>
     <string name="not_split">Ini sepertinya bukan APK terpisah (%1$s)</string>
+    <string name="select_item">Select Item</string>
 </resources>

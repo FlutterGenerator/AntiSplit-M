@@ -65,4 +65,5 @@
     <string name="unselected">: tanlanmagan</string>
     <string name="update">Yangilanish mavjud</string>
     <string name="warning">Ogohlantirish</string>
+    <string name="select_item">Select Item</string>
 </resources>

@@ -62,4 +62,5 @@
     <string name="file_save_method">Dateispeichermethode</string>
     <string name="pick_folder">Ordner auswählen</string>
     <string name="not_split">Dies scheint keine gesplittete APK zu sein (%1$s)</string>
+    <string name="select_item">Select Item</string>
 </resources>

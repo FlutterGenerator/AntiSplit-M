@@ -53,4 +53,5 @@
     <string name="app_icon_list_label">أيقونة التطبيق</string>
     <string name="install">تثبيت</string>
     <string name="suffix">اللاحقة</string>
+    <string name="select_item">Select Item</string>
 </resources>
