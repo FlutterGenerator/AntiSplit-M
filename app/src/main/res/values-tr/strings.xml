@@ -36,7 +36,7 @@
     <string name="error_dir_access">Klasöre erişilemiyor</string>
     <string name="lang" translatable="false">Dil</string>
     <string name="update">Güncelleme mevcut</string>
-    <string name="new_ver">AntiSplit M'nin yeni bir sürümü mevcut</string>
+    <string name="new_ver">AntiSplit M\'nin yeni bir sürümü mevcut</string>
     <string name="dl">İndir</string>
     <string name="auto_update">Güncellemeleri otomatik olarak kontrol et</string>
     <string name="check_update_now">Şimdi güncellemeleri kontrol et</string>
