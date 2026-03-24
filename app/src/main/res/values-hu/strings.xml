@@ -64,5 +64,4 @@
     <string name="file_save_method">Fájl mentési módszer</string>
     <string name="pick_folder">Mappa megadása</string>
     <string name="not_split">Ez nem tűnik split APK-nak (%1$s)</string>
-    <string name="select_item">Select Item</string>
 </resources>

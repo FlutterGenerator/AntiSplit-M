@@ -10,10 +10,11 @@ android {
         applicationId = "com.abdurazaaqmohammed.AntiSplit"
         minSdk = 24
         targetSdk = 36
-        versionCode = 56
-        versionName = "2.2.8"
+        versionCode = 57
+        versionName = "2.2.9"
         multiDexEnabled = true
     }
+
     buildTypes {
         release {
             isMinifyEnabled = true
@@ -32,7 +33,6 @@ android {
     buildFeatures {
         viewBinding = false
     }
-
     dependenciesInfo {
         // Disables dependency metadata when building APKs.
         includeInApk = false
@@ -40,7 +40,6 @@ android {
         includeInBundle = false
     }
 }
-
 dependencies {
     implementation(libs.material)
     implementation(files("libs/APKEditor.jar"))

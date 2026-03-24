@@ -64,5 +64,4 @@
     <string name="file_save_method" translatable="false">File save method</string>
     <string name="pick_folder" translatable="false">Enter folder</string>
     <string name="not_split" translatable="false">This does not seem to be a split APK (%1$s)</string>
-    <string name="select_item">Select Item</string>
 </resources>

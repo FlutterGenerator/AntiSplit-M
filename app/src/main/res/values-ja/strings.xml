@@ -65,5 +65,4 @@
   <string name="file_save_method">ファイルの保存方式</string>
   <string name="pick_folder">フォルダを入力</string>
   <string name="not_split">これは分割 APK ではないようです (%1$s)</string>
-    <string name="select_item">Select Item</string>
 </resources>

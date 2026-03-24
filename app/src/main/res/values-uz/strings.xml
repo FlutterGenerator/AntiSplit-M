@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="all">Hammasini tanlang</string>
     <string name="app_icon_list_label">Ilova belgisi</string>
-    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="arch_for_device">Qurilmangiz uchun arxitekturani tanlang</string>
     <string name="ask">Faylni qayerga saqlashni so\'rang</string>
     <string name="auto_update">Yangilanishlarni avtomatik ravishda tekshiring</string>
@@ -65,5 +65,4 @@
     <string name="unselected">: tanlanmagan</string>
     <string name="update">Yangilanish mavjud</string>
     <string name="warning">Ogohlantirish</string>
-    <string name="select_item">Select Item</string>
 </resources>

@@ -64,5 +64,4 @@
     <string name="file_save_method">파일 저장 방식</string>
     <string name="pick_folder">저장될 폴더 경로 입력하기</string>
     <string name="not_split">분할 APK가 아닌 것 같습니다. (%1$s)</string>
-    <string name="select_item">Select Item</string>
 </resources>

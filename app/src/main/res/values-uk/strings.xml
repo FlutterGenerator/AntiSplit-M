@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="all">Обрати все</string>
     <string name="arch_for_device">Вибір архітектури для вашого пристрою</string>
     <string name="ask">Запитувати де зберегти файл</string>
@@ -36,5 +37,4 @@
     <string name="success_saved">Файл успішно збережено</string>
     <string name="unselected">: Не вибрано</string>
     <string name="suffix">Суфікс</string>
-    <string name="select_item">Select Item</string>
 </resources>

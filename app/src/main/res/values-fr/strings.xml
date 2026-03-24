@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">AntiSplit M</string> 
+    <string name="app_name" translatable="false">AntiSplit M</string>
     <string name="merge">Sélectionner des APK fractionnés pour Fusionner/AntiSplit</string>
     <string name="success_saved">Fichier enregistré avec succès</string>
     <string name="enable_logs">Activer les logs</string>
@@ -49,5 +49,4 @@
     <string name="app_icon_list_label">Icône de l\'application</string>
     <string name="install">Installer</string>
     <string name="suffix">Suffixe</string>
-    <string name="select_item">Select Item</string>
 </resources>

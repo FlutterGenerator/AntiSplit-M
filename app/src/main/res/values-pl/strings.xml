@@ -64,5 +64,4 @@
     <string name="file_save_method">Lokalizacja zapisu pliku</string>
     <string name="pick_folder">Wybierz folder</string>
     <string name="not_split">To nie wydaje się być podzielonym plikiem APK (%1$s)</string>
-    <string name="select_item">Select Item</string>
 </resources>
